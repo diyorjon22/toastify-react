@@ -39,3 +39,18 @@ img {
     top: -30px;
     left: -20px;
 }
+@media screen and (max-width:768px) {
+    .wrapper {
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width:475px) {
+    .wrapper {
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width:400px) {
+    .wrapper {
+        margin-left: 20px;
+    }
+}
